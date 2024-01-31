@@ -22,9 +22,9 @@ It provides a user interface to view the current weather and forecast details.
 
 ## Setup
 
- Clone the repository:
-https://github.com/Bapuji07/weather-app.git
-Install dependencies:
-npm install
-Start the development server:
+ Clone the repository:<br>
+https://github.com/Bapuji07/weather-app.git<br>
+Install dependencies:<br>
+npm install<br>
+Start the development server:<br>
 npm run dev
